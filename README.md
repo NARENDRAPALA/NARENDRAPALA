@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PowerBI & Power Queries
 - 💞️ I’m looking to collaborate on Atomation & templates
 - 📫 How to reach me pnarendra.cma@gmail.com
-- 😄 Pronouns: Narendra
+- 😄 Pronouns: Narendra/ He
 - ⚡ Fun fact: Enjoy The Day
 
 <!---
